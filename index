@@ -1,0 +1,11 @@
+#mini-poject, a dice rolling simulator, will use random, integer, print and while loops
+
+input("Say roll or done: ")
+
+if input == roll:
+  random.randint(1, 6)
+  print random
+elif == done:
+  print ('I guess we're done here.')
+else:
+  print ('Try again')
